@@ -1,11 +1,14 @@
 # Big Data Lab
 This repository serves as a centralized hub for all the code, notebooks, and resources used in our Big Data lab sessions conducted on Google Colab.
+
+## Google Colab
+Get colab: https://colab.research.google.com
  
 ## If you like my repository 
 Don't forget to (Follow) and press the (Star) button. If you want to save this repository in your profile, then click on the (Fork) button from the top right side.
 
 ## Visit other repositories with below link:
-https://github.com/shohancs?tab=repositories
+https://github.com/shohan-cse?tab=repositories
 
 ## Contact:
 info.shohan@yahoo.com
